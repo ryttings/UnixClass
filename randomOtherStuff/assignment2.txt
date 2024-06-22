@@ -1,0 +1,18 @@
+
+Assignment 2
+
+    Due Tuesday by 11:59pm Points 120 Submitting a file upload File Types pdf Available Jun 18 at 12am - Jun 25 at 11:59pm
+
+Total points: 120
+
+    We learned about the user mode versus the kernel (superuser) model in Lecture 2. What is the Linux command that enables switching from the user mode to the kernel (superuser) mode in the terminal? In which of these two modes is a dollar sign ($) displayed in the terminal (shell), and in which of them is a hash sign (#) shown? 10 points
+    The file and directory permissions on a Linux system are messed up. Set a reasonable permission for the following files and directories using both methods taught in class:
+
+    /home (The owner, who is the root, must have all permissions; the group and others shall not be allowed to write here.)
+    /home/user (The owner, who is the user called user, must have all permissions; the group shall not be allowed to write here. Everyone else shall not have any permissions.)
+    The user’s private key, for example, /home/user/.ssh/key.pem
+    The user’s public key, for example, /home/user/.ssh/pub_key.pem
+
+80 points
+
+    First, provide the Linux command required to show all running Java processes. Let’s assume there are two processes with the Process IDs (PIDs) 1854 and 1967. Provide the Linux commands required to kill both processes. 30 points.
